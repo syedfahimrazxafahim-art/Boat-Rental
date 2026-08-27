@@ -1,0 +1,6 @@
+{
+  "name": "Boat Rental Miami",
+  "description": "Premier boat rental and luxury charter booking platform in Miami, FL featuring live fleet catalog, interactive before-and-after care showcase, instant WhatsApp reservation, and scenic tour guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
